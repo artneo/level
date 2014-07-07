@@ -1,0 +1,284 @@
+body {
+  background-color: #333333;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: 800;
+  color: #2a2a2a;
+}
+
+
+.header {
+  background-color: #c0c0c0;
+  margin: 0 auto;
+  width: 780px;
+  height: 170px;
+  border: 20px solid;
+  border-color: #969696;	
+
+}
+
+.logo {
+  position: relative;
+  padding: 10px 0 0 20px;
+  float: left;
+  font-size: 11px;
+}
+
+.logo-gray {
+  font-family: arial black;
+  font-size: 9pt;
+  color: #333333;
+  clear: both;
+  float: left;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+
+.logo-red {
+  font-family: arial black;
+  font-size: 9pt;
+  color: #ff0000;
+  clear: both;
+  float: left;
+  padding-left: 25px;
+}
+
+.lang {
+  margin-left: 200px;
+  margin-top: 25px;
+  font-size: 10pt;
+  font-style: italic;
+}
+
+.lang li {
+  display: inline;
+  padding-left: 25px;
+}
+
+.lang li a {
+  text-decoration: none;
+  color: #2a2a2a;
+  font-weight: 100;
+}
+
+.top-menu {
+  clear: both;
+  margin-top: 95px;
+}
+
+.top-menu li {
+  display: inline;
+  padding-left: 45px;
+}
+
+.top-menu li a {
+  text-decoration: none;
+  color: #2a2a2a;
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.content {
+  background-color: #c0c0c0;
+  margin: 0 auto;
+  width: 780px;
+  border: 20px solid;
+  border-top: 0;
+  border-bottom: 0;
+  border-color: #969696;
+}
+
+.text-home {
+  width: 450px;
+  padding-top: 30px;
+  margin-left: 270px;
+  font-weight: 800;
+}
+
+.logo-home {
+  float: left;
+  padding-top: 10px;
+}
+
+.home {
+  height: 400px;
+}
+
+.logo-home-gray {
+  font-family: arial black;
+  font-size: 9pt;
+  color: #333333;
+  clear: both;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+.logo-home-red {
+  font-family: arial black;
+  font-size: 9pt;
+  color: #ff0000;
+  clear: both;
+  padding-left: 25px;
+}
+
+.left-image {
+  display: block;
+  float: left;
+  margin-top: 50px;
+  margin-left: 40px;
+  border: 2px solid;
+  border-color: #969696;
+}
+
+.content-left {
+  width: 200px;
+  float: left;
+} 
+
+.content-right {
+  padding-top: 10px;
+  width: 200px;
+  float: left;
+}
+
+.content-home1 {
+  padding-top: 70px;
+}
+
+.h-red {
+  font-size: 14pt;
+  color: #ff0000;
+  margin-left: 50px;
+  font-weight: 800;
+}
+
+.footer {
+  background-color: #c0c0c0;
+  margin: 0 auto;
+  width: 780px;
+  height: 100px;
+  border: 20px solid;
+  border-top: 0;
+  border-color: #969696;
+}
+
+.footer-menu {
+  padding-top: 40px;
+  margin: 0;
+}
+
+.footer-menu li {
+  display: inline;
+  padding-left: 40px;
+}
+
+.footer-menu li a {
+  text-decoration: none;
+  color: #2a2a2a;
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.content-video {
+  background-color: #c0c0c0;
+  margin: 0 auto;
+  width: 780px;
+  height: 500px;
+  border: 20px solid;
+  border-top: 0;
+  border-bottom: 0;
+  border-color: #969696;
+}
+
+.video-left {
+  width: 200px;
+  float: left;
+  border: 3px solid;
+  border-color: #969696;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-weight: 800;
+}
+
+.video-right {
+  float: left;
+  margin-left: 40px;
+  font-weight: 800;
+}
+
+.video-block {
+  border: 3px solid;
+  border-color: #969696;
+  float: left;
+  width: 396px;
+  height: 205px;
+  clear: both;
+  margin-top: 40px;
+}
+
+.block {
+  color: #2a2a2a;
+  height: auto;
+  border-bottom: 20px solid;
+  border-color: #969696;
+}
+
+.vergleiche-text {
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.vergleiche-h1 {
+  padding-left: 250px;
+  padding-top: 40px;
+  font-size: 14pt;
+}
+
+.vergleiche-img {
+  padding-left: 120px;
+  padding-top: 40px;
+  height: 200px;
+}
+
+.vergleiche-table {
+  width: 700px;
+  padding-left: 40px;
+}
+
+.vergleiche-img1 {
+  clear: both;
+  float: left;
+  padding-left: 50px;
+  padding-top: 40px
+}
+
+.vergleiche-h2 {
+  font-size: 12pt;
+  float: right;
+  padding-top: 50px;
+  padding-right: 70px;
+}
+
+.vergleiche-text2 {
+  padding-left: 400px;
+  height: 250px;
+  width: 320px;
+  padding-top: 100px;
+}
+
+.vergleiche-red {
+  font-size: 12pt;
+  color: #ff0000;
+}
+
+.vergleiche-gray {
+  font-size: 12pt;
+}
+
+.schulung {
+  margin: 0 auto;
+  width: 450px;
+  padding-top: 20px;
+}
